@@ -4,6 +4,7 @@
 
 > A simple "to-do"-like app in react
 
+### Getting started
 ```sh
 # Clone the repository
 git clone https://github.com/pankaryp/react-expensify.git
